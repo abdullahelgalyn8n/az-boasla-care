@@ -1,0 +1,6 @@
+{
+  "name": "بوصلة | Boasla Care - علمٌ، إنسانية، وتوازن نفسي",
+  "description": "منصة بوصلة المتخصصة في دعم الصحة النفسية للأمهات والأطفال والمراهقين بإشراف د. ولاء حسني — كورسات تدريبية، منتجات وحقائب تربوية، قصص علاجية، ومصادر مجانية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
